@@ -2,6 +2,17 @@
 
 A decentralized energy trading platform built with React (frontend) and Rust (backend) on the Internet Computer Protocol (ICP) blockchain.
 
+The Energy Marketplace aims to revolutionize the way energy is traded by leveraging blockchain technology. It provides a secure, transparent, and decentralized platform where users can buy, sell, and trade energy directly with one another, bypassing traditional intermediaries. The platform is designed to empower individuals and businesses to participate in a sustainable energy ecosystem, promoting the use of renewable energy sources and reducing carbon footprints.
+
+Key highlights of the project:
+- **Decentralization:** Eliminates the need for centralized authorities, ensuring fair and transparent transactions.
+- **Smart Contracts:** Utilizes Rust-based canisters on the ICP blockchain to automate and secure energy trading processes.
+- **User-Friendly Interface:** A modern React-based frontend that ensures a seamless user experience.
+- **Scalability:** Built on the Internet Computer, the platform can scale to support a growing number of users and transactions.
+- **Sustainability:** Encourages the adoption of renewable energy by providing a marketplace for green energy producers and consumers.
+
+This project is ideal for energy producers, consumers, and anyone interested in contributing to a decentralized and sustainable energy future.
+
 ***
 
 ## 🌟 Features
